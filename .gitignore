@@ -1,2 +1,5 @@
+#spyder files
 .spyproject/
+
+#Python cache
 __pycache__/
